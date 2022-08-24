@@ -1,6 +1,7 @@
-[img](https://assets.imaginablefutures.com/media/images/ALILogo.max-200x150.png)
+<img src = "https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png" alt="ALX Africa Logo">
 
-# 0x00 ALX System Engineering and DevOps 💥
+
+# ALX System Engineering and DevOps 💥
 
 >Learning bash, scripting, networking and web infra right now.
 
